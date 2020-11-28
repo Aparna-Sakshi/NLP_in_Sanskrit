@@ -1,1 +1,1 @@
-# NLP_in_Sanskrit
+# NLP in Sanskrit
